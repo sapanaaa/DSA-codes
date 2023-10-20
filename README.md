@@ -1,1 +1,1 @@
-# DSA- codes (using C C++)
+# DSA- codes from 3rd sem syllabus (using C C++)
